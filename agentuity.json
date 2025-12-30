@@ -1,0 +1,7 @@
+{
+  "$schema": "https://agentuity.dev/schema/cli/v1/agentuity.json",
+  "projectId": "proj_7c085cae563d5e17613bf91a93e18625",
+  "orgId": "org_2vVs5j2cXF2crRQLElrjEaSWCrV",
+  "deployment": {},
+  "region": "local"
+}
